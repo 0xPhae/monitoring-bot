@@ -4,4 +4,4 @@ monitor solana blockchain transactions
 # instructions
 
 - Run `node connect.js`
-- ![Logs](../monitoring-bot/resources/sol_dev_txns.png)
+- ![Logs](resources/sol_dev_txns.png)
